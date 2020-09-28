@@ -1,0 +1,4 @@
+pandas==1.*
+folium==0.10.*
+Pillow==7.*
+matplotlib==3.*

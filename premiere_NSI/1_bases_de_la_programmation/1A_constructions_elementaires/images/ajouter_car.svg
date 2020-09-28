@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="C:\Users\julie\Google Drive\Informatique\NSI\progressionNSI\chapitres\langages_et_prog_part1\ajouter_car.png"
+   inkscape:export-xdpi="49.995461"
+   inkscape:export-ydpi="49.995461"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="ajouter_car.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path882"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1177"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1175"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path876"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path888"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path882-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="212.55839"
+     inkscape:cy="554.39147"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="1001"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Bodoni MT';-inkscape-font-specification:'Bodoni MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="97.28611"
+       y="52.465923"
+       id="text823"><tspan
+         sodipodi:role="line"
+         id="tspan821"
+         x="97.28611"
+         y="52.465923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332">caractère c</tspan><tspan
+         sodipodi:role="line"
+         x="97.28611"
+         y="64.813148"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332"
+         id="tspan825">chaîne S</tspan><tspan
+         sodipodi:role="line"
+         x="97.28611"
+         y="75.287613"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458332;stroke-opacity:1"
+         id="tspan835">exemple d'entrée :</tspan><tspan
+         sodipodi:role="line"
+         x="97.28611"
+         y="84.989006"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458332;stroke-opacity:1"
+         id="tspan861">c=&quot;o&quot;, S=&quot;cp&quot;</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot827"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:'Bodoni MT';font-style:normal;font-weight:normal;font-size:21.33333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;text-anchor:middle;text-align:center;-inkscape-font-specification:'Bodoni MT';font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion829"><rect
+           id="rect831"
+           width="250.51784"
+           height="24.243662"
+           x="133.34013"
+           y="320.45856" /></flowRegion><flowPara
+         id="flowPara833" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Bodoni MT';-inkscape-font-specification:'Bodoni MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="97.486267"
+       y="196.8811"
+       id="text823-6"><tspan
+         sodipodi:role="line"
+         x="97.486267"
+         y="196.8811"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332"
+         id="tspan2147">chaîne S'</tspan><tspan
+         sodipodi:role="line"
+         x="98.72168"
+         y="207.35558"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458332;stroke-opacity:1"
+         id="tspan835-7">sortie de l'exemple : </tspan><tspan
+         sodipodi:role="line"
+         x="97.486267"
+         y="217.05696"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458332;stroke-opacity:1"
+         id="tspan863">S'=&quot;cpo&quot;</tspan></text>
+    <g
+       id="g1527">
+      <g
+         id="g1506">
+        <rect
+           style="opacity:0.97899996;fill:#c8c8c8;fill-opacity:1;stroke:#000000;stroke-width:0.84425837;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect815"
+           width="107.64225"
+           height="48.108513"
+           x="43.467396"
+           y="113.73783"
+           rx="0.48545137"
+           ry="0.64365447" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="96.90612"
+           y="134.23331"
+           id="text819"><tspan
+             sodipodi:role="line"
+             id="tspan817"
+             x="96.90612"
+             y="134.23331"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332">fonction</tspan><tspan
+             sodipodi:role="line"
+             x="96.90612"
+             y="151.87219"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332"
+             id="tspan1477">&quot;ajouter_car&quot;</tspan></text>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path865"
+         d="M 97.288521,86.603374 V 107.98493"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path865-2"
+         d="m 97.288521,162.24322 v 21.38157"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Bodoni MT';-inkscape-font-specification:'Bodoni MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="82.319016"
+       y="82.649841"
+       id="text1531"><tspan
+         sodipodi:role="line"
+         id="tspan1529"
+         x="82.319016"
+         y="87.413651"
+         style="stroke-width:0.26458332" /></text>
+  </g>
+</svg>
